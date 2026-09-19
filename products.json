@@ -1,0 +1,388 @@
+{
+  "lines": [
+    {
+      "id": "ztek-hearth",
+      "manufacturer": "ZTTEK",
+      "title": {
+        "uk": "ZTTEK Hearth",
+        "en": "ZTTEK Hearth"
+      },
+      "description": {
+        "uk": "Резидентські ESS для квартир, таунхаусів і окремих споживачів у межах ЖК.",
+        "en": "Residential ESS for apartments, townhouses, and individual users within residential complexes."
+      },
+      "solutionTags": ["apartment", "private"],
+      "models": [
+        {
+          "name": "ZT-REES-HV-ST-8k",
+          "image": "ZT-REES-HV-ST-8k.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": {
+            "uk": "Високовольтний модульний накопичувач для DC-coupled систем.",
+            "en": "High-voltage modular storage for DC-coupled systems."
+          },
+          "specs": [
+            { "label": { "uk": "Тип батареї", "en": "Battery type" }, "value": "LFP" },
+            { "label": { "uk": "Ємність", "en": "Capacity" }, "value": "8 kWh" },
+            { "label": { "uk": "Номінальна напруга", "en": "Nominal voltage" }, "value": "550 V" },
+            { "label": { "uk": "Піковий струм/потужність", "en": "Peak current/power" }, "value": "4 kW" },
+            { "label": { "uk": "Комунікація", "en": "Communication" }, "value": "RS485 / CAN" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "988 × 300 × 278mm" },
+            { "label": { "uk": "Вага", "en": "Weight" }, "value": "85 kg" },
+            { "label": { "uk": "Захист", "en": "Protection rating" }, "value": "IP65" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "≥6000 cycles @ 80% DOD" }
+          ]
+        },
+        {
+          "name": "ZT-REES-LV-ST-16k",
+          "image": "ZT-REES-LV-ST-16k.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": {
+            "uk": "Низьковольтна stackable-система для гнучкого розширення.",
+            "en": "Low-voltage stackable system for flexible expansion."
+          },
+          "specs": [
+            { "label": { "uk": "Тип батареї", "en": "Battery type" }, "value": "LFP" },
+            { "label": { "uk": "Ємність", "en": "Capacity" }, "value": "16 kWh" },
+            { "label": { "uk": "Номінальна напруга", "en": "Nominal voltage" }, "value": "51.2 V" },
+            { "label": { "uk": "Макс. заряд/розряд", "en": "Max. charge/discharge current" }, "value": "120 A / 120 A" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "700 × 350 × 260mm" },
+            { "label": { "uk": "Вага", "en": "Weight" }, "value": "170 kg" },
+            { "label": { "uk": "Захист", "en": "Protection rating" }, "value": "IP65" },
+            { "label": { "uk": "Розширення", "en": "Expansion" }, "value": "Fast expansion with 2 parallel units; up to 16 units with DC combiner" }
+          ]
+        },
+        {
+          "name": "ZT-REES-LV-FS-16k-G1",
+          "image": "ZT-REES-LV-FS-16k-G1.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": {
+            "uk": "Підлогова низьковольтна система з компактною інсталяцією.",
+            "en": "Floor-standing low-voltage system with compact installation."
+          },
+          "specs": [
+            { "label": { "uk": "Тип батареї", "en": "Battery type" }, "value": "LFP" },
+            { "label": { "uk": "Ємність", "en": "Capacity" }, "value": "16 kWh" },
+            { "label": { "uk": "Номінальна напруга", "en": "Nominal voltage" }, "value": "51.2 V" },
+            { "label": { "uk": "Макс. заряд/розряд", "en": "Max. charge/discharge current" }, "value": "120 A / 120 A" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "550 × 860 × 175mm" },
+            { "label": { "uk": "Вага", "en": "Weight" }, "value": "140 kg" },
+            { "label": { "uk": "Захист", "en": "Protection rating" }, "value": "IP20" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "≥6000 cycles @ 80% DOD" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ztek-sentinal",
+      "manufacturer": "ZTTEK",
+      "title": { "uk": "ZTTEK Sentinal", "en": "ZTTEK Sentinal" },
+      "description": {
+        "uk": "C&I-рішення для загальнобудинкових систем, ліфтів, насосних станцій та резервного живлення.",
+        "en": "C&I solutions for shared building systems, elevators, pump stations, and backup power."
+      },
+      "solutionTags": ["apartment", "commercial"],
+      "models": [
+        {
+          "name": "Sentinal 100",
+          "image": "Sentinal-100.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "All-in-One ESS 50kW / 100kWh.", "en": "All-in-One ESS 50kW / 100kWh." },
+          "specs": [
+            { "label": { "uk": "Номінальна AC потужність", "en": "Rated AC power" }, "value": "50 kW" },
+            { "label": { "uk": "Номінальна енергія", "en": "Rated energy" }, "value": "96.6 kWh (314 Ah @ 307.2 V)" },
+            { "label": { "uk": "Пікова ефективність", "en": "Peak efficiency" }, "value": "98.20%" },
+            { "label": { "uk": "Перемикання Grid / Off-Grid", "en": "Grid / Off-Grid transfer time" }, "value": "<10 ms" },
+            { "label": { "uk": "Захист", "en": "Protection rating" }, "value": "IP55" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "1125 × 1270 × 2080 mm (±10 mm)" },
+            { "label": { "uk": "Вага", "en": "Weight" }, "value": "1200 ± 20 kg" },
+            { "label": { "uk": "Розширення", "en": "Expansion" }, "value": "Off-grid: Up to 10 units; On-grid: greater capacity achievable" }
+          ]
+        },
+        {
+          "name": "Sentinal 233",
+          "image": "Sentinal-233.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "Рідинно-охолоджувана C&I шафа 105kW / 233kWh.", "en": "Liquid-cooled C&I cabinet 105kW / 233kWh." },
+          "specs": [
+            { "label": { "uk": "Номінальна потужність", "en": "Rated power" }, "value": "105 kW" },
+            { "label": { "uk": "Номінальна енергія", "en": "Rated energy" }, "value": "233 kWh" },
+            { "label": { "uk": "DOD", "en": "DOD" }, "value": "98%" },
+            { "label": { "uk": "Охолодження", "en": "Cooling" }, "value": "Liquid cooling" },
+            { "label": { "uk": "Захист", "en": "Protection rating" }, "value": "IP54" },
+            { "label": { "uk": "Габарити шафи", "en": "Cabinet dimensions" }, "value": "970 × 1400 × 2270 mm (±10 mm)" },
+            { "label": { "uk": "Вага", "en": "Weight" }, "value": "2300 ± 20 kg" },
+            { "label": { "uk": "Комунікація", "en": "Communication" }, "value": "RS485, CAN" }
+          ]
+        },
+        {
+          "name": "Sentinal 261",
+          "image": "Sentinal-261.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "Рідинно-охолоджувана C&I шафа 125kW / 261kWh.", "en": "Liquid-cooled C&I cabinet 125kW / 261kWh." },
+          "specs": [
+            { "label": { "uk": "Номінальна потужність", "en": "Rated power" }, "value": "125 kW" },
+            { "label": { "uk": "Номінальна енергія", "en": "Rated energy" }, "value": "261 kWh" },
+            { "label": { "uk": "DOD", "en": "DOD" }, "value": "98%" },
+            { "label": { "uk": "Охолодження", "en": "Cooling" }, "value": "Liquid cooling" },
+            { "label": { "uk": "Захист", "en": "Protection rating" }, "value": "IP54" },
+            { "label": { "uk": "Габарити шафи", "en": "Cabinet dimensions" }, "value": "970 × 1400 × 2270 mm (±10 mm)" },
+            { "label": { "uk": "Вага", "en": "Weight" }, "value": "2350 ± 20 kg" },
+            { "label": { "uk": "Комунікація", "en": "Communication" }, "value": "RS485, CAN" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ztek-quantum",
+      "manufacturer": "ZTTEK",
+      "title": { "uk": "ZTTEK Quantum", "en": "ZTTEK Quantum" },
+      "description": {
+        "uk": "Utility-scale контейнерні ESS для великих ЖК, паркінгів з EV-зарядками та мікрорайонних резервів.",
+        "en": "Utility-scale containerized ESS for large residential complexes, EV parking, and district-scale backup."
+      },
+      "solutionTags": ["apartment", "commercial"],
+      "models": [
+        {
+          "name": "ZT-BEES-LFP-5M",
+          "image": "ZT-BEES-LFP-5M.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "LFP контейнер 2.5MW / 5MWh.", "en": "LFP container 2.5MW / 5MWh." },
+          "specs": [
+            { "label": { "uk": "Потужність / енергія", "en": "Rated power / energy" }, "value": "2.5MW / 5MWh" },
+            { "label": { "uk": "Тип батареї", "en": "Battery type" }, "value": "LFP" },
+            { "label": { "uk": "Системна напруга", "en": "System rated voltage" }, "value": "1331.2V" },
+            { "label": { "uk": "C-rate", "en": "Charge / discharge rate" }, "value": "0.5C" },
+            { "label": { "uk": "Захист", "en": "Protection level" }, "value": "IP54" },
+            { "label": { "uk": "Температура", "en": "Operating temperature" }, "value": "-30°C to 55°C" },
+            { "label": { "uk": "Комунікація", "en": "Communication" }, "value": "Modbus / CAN2.0 / IEC61850 / IEC104" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "20ft container" }
+          ]
+        },
+        {
+          "name": "ZT-BEES-Na-2.5M",
+          "image": "ZT-BEES-Na-2.5M.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "Sodium-ion контейнер 1.25MW / 2.5MWh.", "en": "Sodium-ion container 1.25MW / 2.5MWh." },
+          "specs": [
+            { "label": { "uk": "Потужність / енергія", "en": "Rated power / energy" }, "value": "1.25MW / 2.5MWh" },
+            { "label": { "uk": "Тип батареї", "en": "Battery type" }, "value": "Sodium-ion" },
+            { "label": { "uk": "Системна напруга", "en": "System rated voltage" }, "value": "1152V / 1008V" },
+            { "label": { "uk": "C-rate", "en": "Charge / discharge rate" }, "value": "0.5C" },
+            { "label": { "uk": "Захист", "en": "Protection level" }, "value": "IP54" },
+            { "label": { "uk": "Температура", "en": "Operating temperature" }, "value": "-30°C to 55°C" },
+            { "label": { "uk": "Комунікація", "en": "Communication" }, "value": "Modbus / CAN2.0 / IEC61850 / IEC104" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "20ft container" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ztek-spark",
+      "manufacturer": "ZTTEK",
+      "title": { "uk": "ZTTEK Spark", "en": "ZTTEK Spark" },
+      "description": {
+        "uk": "Портативні станції як допоміжний асортимент для охорони, консьєрж-сервісу й аварійних робіт.",
+        "en": "Portable stations as supporting range for security desks, concierge service, and emergency work."
+      },
+      "solutionTags": ["apartment", "commercial", "private"],
+      "models": [
+        {
+          "name": "ZT-PESS-D-1k / ZT-PESS-A-1k / ZT-PESS-A-1k Pro",
+          "image": "ZT-PESS-D-1k:ZT-PESS-A-1k:ZT-PESS-A-1k Pro.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "1 kWh портативні станції.", "en": "1 kWh portable power stations." },
+          "specs": [
+            { "label": { "uk": "Хімія", "en": "Cell chemistry" }, "value": "LFP" },
+            { "label": { "uk": "Ємність", "en": "Rated capacity" }, "value": "1004.8 Wh" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "≥3000 cycles @ 80% DOD" },
+            { "label": { "uk": "AC вихід", "en": "Max AC output power" }, "value": "300W / 500W (A-series); DC model has DC/USB outputs" },
+            { "label": { "uk": "Захист", "en": "IP rating" }, "value": "IP22" },
+            { "label": { "uk": "Вага", "en": "Net weight" }, "value": "7–8 kg" }
+          ]
+        },
+        {
+          "name": "ZT-PESS-2k",
+          "image": "ZT-PESS-2k.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "2 kWh станція для довшого резерву.", "en": "2 kWh station for longer backup duration." },
+          "specs": [
+            { "label": { "uk": "Хімія", "en": "Cell chemistry" }, "value": "LFP" },
+            { "label": { "uk": "Ємність", "en": "Rated capacity" }, "value": "2009.6 Wh" },
+            { "label": { "uk": "AC вихід", "en": "Max AC output power" }, "value": "1000W" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "≥3000 cycles @ 80% DOD" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "350 × 250 × 324 mm" },
+            { "label": { "uk": "Вага", "en": "Net weight" }, "value": "28 kg" }
+          ]
+        },
+        {
+          "name": "ZT-PESS-4k Pro / ZT-PESS-4k / ZT-PESS-5k",
+          "image": "ZT-PESS-4k Pro:ZT-PESS-4k:ZT-PESS-5k.webp",
+          "source": "ZTTEK Energy Storage Solutions",
+          "summary": { "uk": "4-5 kWh портативні станції для резерву критичних навантажень.", "en": "4-5 kWh portable stations for critical-load backup." },
+          "specs": [
+            { "label": { "uk": "Хімія", "en": "Cell chemistry" }, "value": "LFP" },
+            { "label": { "uk": "Ємність", "en": "Rated capacity" }, "value": "4019Wh / 4019 Wh / 5024 Wh" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "≥3000 cycles @ 80% DOD" },
+            { "label": { "uk": "BMS", "en": "BMS protection" }, "value": "8-layer protection" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pylontech-residential",
+      "manufacturer": "Pylontech",
+      "title": { "uk": "Pylontech Residential ESS", "en": "Pylontech Residential ESS" },
+      "description": {
+        "uk": "Модульні батареї та аксесуари Pylontech для житлових і малих комерційних сценаріїв.",
+        "en": "Pylontech modular batteries and accessories for residential and small commercial scenarios."
+      },
+      "solutionTags": ["apartment", "commercial", "private"],
+      "models": [
+        {
+          "name": "Force H3",
+          "image": "Force-H3.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "Високовольтна батарея 10.24-35.84 kWh в одній групі.", "en": "High-voltage battery from 10.24-35.84 kWh in one group." },
+          "specs": [
+            { "label": { "uk": "Модулі", "en": "Modules" }, "value": "2 / 3 / 4 / 5 / 6 / 7" },
+            { "label": { "uk": "Ємність системи", "en": "Battery system energy" }, "value": "10.24 / 15.36 / 20.48 / 25.6 / 30.72 / 35.84 kWh" },
+            { "label": { "uk": "Корисна ємність", "en": "Usable capacity" }, "value": "9.69 / 14.73 / 19.48 / 24.32 / 29.17 / 34.01 kWh" },
+            { "label": { "uk": "DOD", "en": "Depth of discharge" }, "value": "95%" },
+            { "label": { "uk": "Паралельні групи", "en": "Multi-group" }, "value": "Max 6 groups in parallel" },
+            { "label": { "uk": "Захист", "en": "IP rating" }, "value": "IP65" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "8,000+" }
+          ]
+        },
+        {
+          "name": "ReefMagic",
+          "image": "ReefMagic.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "Високовольтна батарея 15-75 kWh для житлових і C&I сценаріїв.", "en": "High-voltage battery from 15-75 kWh for residential and C&I scenarios." },
+          "specs": [
+            { "label": { "uk": "Модулі", "en": "Modules" }, "value": "2 / 4 / 6 / 8 / 10" },
+            { "label": { "uk": "Ємність системи", "en": "Battery system energy" }, "value": "15.0 / 30.0 / 45.0 / 60.0 / 75 kWh" },
+            { "label": { "uk": "DOD", "en": "Depth of discharge" }, "value": "95%" },
+            { "label": { "uk": "Паралельні групи", "en": "Multi-group" }, "value": "Max 6 groups in parallel" },
+            { "label": { "uk": "Захист", "en": "IP rating" }, "value": "IP65" },
+            { "label": { "uk": "Пожежогасіння", "en": "Firefighting" }, "value": "Aerosol" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "8,000+" }
+          ]
+        },
+        {
+          "name": "Fidus Battery EU",
+          "image": "Fidus-Battery-EU.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "Низьковольтний 5.12 kWh модуль з IP65.", "en": "Low-voltage 5.12 kWh module with IP65." },
+          "specs": [
+            { "label": { "uk": "Моделі", "en": "Models" }, "value": "FB-L-5.12-EU / FB-L-5.12-EU-Pro" },
+            { "label": { "uk": "Номінальна напруга", "en": "Nominal voltage" }, "value": "51.2 VDC" },
+            { "label": { "uk": "Номінальна ємність", "en": "Nominal capacity" }, "value": "5.12 kWh" },
+            { "label": { "uk": "Корисна ємність", "en": "Usable capacity" }, "value": "4.86 kWh" },
+            { "label": { "uk": "DOD", "en": "Depth of discharge" }, "value": "95%" },
+            { "label": { "uk": "Захист", "en": "IP rating" }, "value": "IP65" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "8,000+" }
+          ]
+        },
+        {
+          "name": "Fidus Battery Plus",
+          "image": "Fidus-Battery-Plus.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "Низьковольтна 16.1 kWh батарея з опційним Aerosol пожежогасінням.", "en": "Low-voltage 16.1 kWh battery with optional Aerosol firefighting." },
+          "specs": [
+            { "label": { "uk": "Моделі", "en": "Models" }, "value": "FB-L-16 / FB-L-16-Pro" },
+            { "label": { "uk": "Номінальна напруга", "en": "Nominal voltage" }, "value": "51.2 VDC" },
+            { "label": { "uk": "Номінальна ємність", "en": "Nominal capacity" }, "value": "16.1 kWh" },
+            { "label": { "uk": "DOD", "en": "Depth of discharge" }, "value": "100%" },
+            { "label": { "uk": "Захист", "en": "IP rating" }, "value": "IP65" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "8,000+" }
+          ]
+        },
+        {
+          "name": "US5000",
+          "image": "US5000.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "Низьковольтна батарея для backup, off-grid і microgrid.", "en": "Low-voltage battery for backup, off-grid, and microgrid systems." },
+          "specs": [
+            { "label": { "uk": "Номінальна напруга", "en": "Nominal voltage" }, "value": "48 VDC" },
+            { "label": { "uk": "Номінальна ємність", "en": "Nominal capacity" }, "value": "4.8 kWh" },
+            { "label": { "uk": "Корисна ємність", "en": "Usable capacity" }, "value": "4.56 kWh" },
+            { "label": { "uk": "DOD", "en": "Depth of discharge" }, "value": "95%" },
+            { "label": { "uk": "Захист", "en": "IP rating" }, "value": "IP20" },
+            { "label": { "uk": "Цикли", "en": "Cycle life" }, "value": "8,000+" }
+          ]
+        },
+        {
+          "name": "LV-HUB-V2-Pro",
+          "image": "LV-HUB-V2-Pro.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "Комунікаційний hub для паралельного розширення низьковольтних батарей.", "en": "Communication hub for parallel expansion of low-voltage batteries." },
+          "specs": [
+            { "label": { "uk": "Робоча напруга", "en": "Operating voltage range" }, "value": "48 / 12 VDC (2 independent power supplies)" },
+            { "label": { "uk": "Інтерфейси", "en": "Communication interface" }, "value": "CAN: 500 kbps; RS485: 9600 kbps" },
+            { "label": { "uk": "Групи", "en": "Max groups" }, "value": "6" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "280*180*70 mm" },
+            { "label": { "uk": "Захист", "en": "Protection degree" }, "value": "IP65" },
+            { "label": { "uk": "Вага", "en": "Weight" }, "value": "3 kg" }
+          ]
+        },
+        {
+          "name": "WiFi Stick",
+          "image": "wifi-stick.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "Plug-and-play адаптер для Wi-Fi, LAN і Bluetooth-комунікації.", "en": "Plug-and-play adapter for Wi-Fi, LAN, and Bluetooth communication." },
+          "specs": [
+            { "label": { "uk": "Інтерфейс", "en": "Connection interface" }, "value": "USB" },
+            { "label": { "uk": "Встановлення", "en": "Installation" }, "value": "Plug-and-play" },
+            { "label": { "uk": "Габарити", "en": "Dimensions" }, "value": "46*30*160 mm" },
+            { "label": { "uk": "Захист", "en": "IP rating" }, "value": "IP65" },
+            { "label": { "uk": "Bluetooth", "en": "Wireless standard" }, "value": "BLE 5.1" },
+            { "label": { "uk": "Сертифікати", "en": "Certificate" }, "value": "CE/FCC/IEC 62368/UL 62368/EN18031" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pylontech-force-h3x",
+      "manufacturer": "Pylontech",
+      "title": { "uk": "Pylontech Force H3X", "en": "Pylontech Force H3X" },
+      "description": {
+        "uk": "All-in-One рішення з однофазними та трифазними гібридними інверторами.",
+        "en": "All-in-One solution with single-phase and three-phase hybrid inverters."
+      },
+      "solutionTags": ["apartment", "commercial", "private"],
+      "models": [
+        {
+          "name": "Force H3X Single Phase",
+          "image": "Force-H3X-Single-Phase.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "FH3X 3.6-8 kW, 5.12-20.48 kWh.", "en": "FH3X 3.6-8 kW, 5.12-20.48 kWh." },
+          "specs": [
+            { "label": { "uk": "Моделі", "en": "Models" }, "value": "FH3X3.6K-HY-1P / FH3X5K-HY-1P / FH3X6K-HY-1P / FH3X8K-HY-1P" },
+            { "label": { "uk": "Модулі батарей", "en": "Number of battery modules" }, "value": "1/2/3/4" },
+            { "label": { "uk": "Ємність системи", "en": "System nominal capacity" }, "value": "5.12/10.24/15.36/20.48 kWh" },
+            { "label": { "uk": "Потужність системи", "en": "System nominal power" }, "value": "3.6 / 5 / 6 / 8 kW" },
+            { "label": { "uk": "Перемикання", "en": "ON/Off-Grid switching time" }, "value": "≤10 ms" },
+            { "label": { "uk": "Ефективність", "en": "Maximum efficiency" }, "value": "98%" },
+            { "label": { "uk": "Захист", "en": "Ingress protection" }, "value": "IP65" }
+          ]
+        },
+        {
+          "name": "Force H3X Three Phase",
+          "image": "Force-H3X-Three-Phase.webp",
+          "source": "Pylontech Residential ESS Solution Portfolio",
+          "summary": { "uk": "FH3X 8-15 kW, 10.24-35.84 kWh.", "en": "FH3X 8-15 kW, 10.24-35.84 kWh." },
+          "specs": [
+            { "label": { "uk": "Моделі", "en": "Models" }, "value": "FH3X-8K-HY-3P / FH3X-10K-HY-3P / FH3X-12K-HY-3P / FH3X-15K-HY-3P" },
+            { "label": { "uk": "Модулі батарей", "en": "Number of battery modules" }, "value": "2/3/4/5/6/7" },
+            { "label": { "uk": "Ємність системи", "en": "System nominal capacity" }, "value": "10.24/15.36/20.48/25.6/30.72/35.84 kWh" },
+            { "label": { "uk": "Потужність системи", "en": "System nominal power" }, "value": "8 / 10 / 12 / 15 kW" },
+            { "label": { "uk": "Мережа", "en": "Nominal grid voltage" }, "value": "3/N/PE a.c. 400 V" },
+            { "label": { "uk": "Ефективність", "en": "Maximum efficiency" }, "value": "98%" },
+            { "label": { "uk": "Захист", "en": "Ingress protection" }, "value": "IP65" }
+          ]
+        }
+      ]
+    }
+  ]
+}
