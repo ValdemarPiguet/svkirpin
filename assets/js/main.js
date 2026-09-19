@@ -127,7 +127,6 @@ async function renderProducts() {
             <table class="spec-table" aria-label="${model.name} specifications">
               <tbody>${specs}</tbody>
             </table>
-            <p class="section__lead"><small>${lang === "uk" ? "Джерело" : "Source"}: ${model.source}</small></p>
           </div>
           ${model.image ? `
           <div class="card__media product-card__media">
